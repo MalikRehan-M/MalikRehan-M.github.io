@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.24a2f4f5.css",
-    "main.js": "/static/js/main.c7c06a43.js",
+    "main.js": "/static/js/main.109578da.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/kaushan-script-all-400-normal.woff": "/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
     "static/media/kaushan-script-latin-400-normal.woff2": "/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
     "static/media/kaushan-script-latin-ext-400-normal.woff2": "/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
     "index.html": "/index.html",
     "main.24a2f4f5.css.map": "/static/css/main.24a2f4f5.css.map",
-    "main.c7c06a43.js.map": "/static/js/main.c7c06a43.js.map",
+    "main.109578da.js.map": "/static/js/main.109578da.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24a2f4f5.css",
-    "static/js/main.c7c06a43.js"
+    "static/js/main.109578da.js"
   ]
 }
